@@ -1,0 +1,3 @@
+[submodule "git-submodule-test-subapp"]
+	path = git-submodule-test-subapp
+	url = https://github.com/hosembafer/git-submodule-test-subapp.git
